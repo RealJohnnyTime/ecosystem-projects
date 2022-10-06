@@ -1,0 +1,23 @@
+{
+    "name": "Lava Network",
+    "slug": "lava-network",
+    "date": "2022-10-06",
+    "highlight": "Lava is a protocol that allows apps to access accurate blockchain data, scalably, privately and uncensored. The protocol will support Avalanche RPC.",
+    "logo": "/img/lava.png",
+    "tags": [
+        "infrastructure",
+        "api",
+        "marketplace",
+        "nodes"
+    ],
+    "status": "testnet",
+    "website": "https://lavanet.xyz/",
+    "twitter": "https://twitter.com/lavanetxyz",
+    "summary": "Lava is a protocol that allows apps to access accurate blockchain data, scalably, privately and uncensored. Using cryptography and token-aligned incentives, the protocol holds RPCs endpoints accountable for data integrity and service quality. Node runners earn income by providing RPC service, while contributing towards decentralization.",
+    "telegram": "",
+    "discord": "https://discord.gg/HtbbZTr9E4",
+    "docs": "https://lavanet.xyz/assets/lava_litepaper_v0_1.pdf",
+    "github": "",
+    "token": "",
+    "cmc": ""
+}
